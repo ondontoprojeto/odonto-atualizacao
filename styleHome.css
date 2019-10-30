@@ -1,0 +1,35 @@
+
+
+.consolidado{
+	margin: 0 auto;
+}
+#real, #agen, #conf, #canc{
+	width:180px;
+    display:block;
+}
+#real, #agen, #conf, #canc h6{
+	text-align:center;
+}
+.estudos{
+	font-size: 10px;
+	font-style:bold;
+}
+	/* Tabela Aniversariantes do mês */
+#tbodyAni {
+    height: 240px;
+    display: inline-block;
+    width: 100%;
+    overflow: auto;
+}
+
+	/*Tabela Procedimentos Realizados*/
+#tbodyProce {
+    height: 240px;
+    display: inline-block;
+    width: 100%;
+    overflow: auto;
+}
+  
+
+	
+
